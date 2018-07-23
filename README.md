@@ -6,6 +6,8 @@
 
 **演示地址：**[https://beverle-y.github.io/react-redux-starter-kit](https://beverle-y.github.io/react-redux-starter-kit/)
 
+**Mobx版：**[react-starter-kit](https://github.com/beverle-y/react-starter-kit)
+
 ## Quick Start
 #### Down
 ~~~
